@@ -13,9 +13,9 @@
     text-align: center;
     font-size: 1.2rem;
     }
-    img {
-    height: 500px;
-    width: 500px;
+    img{
+    max-width: 85%;
+    max-height: 85%
     }
     div {
     text-align: center;
