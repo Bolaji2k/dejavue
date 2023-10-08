@@ -12,9 +12,12 @@ footer {
   color: rgb(22, 21, 21);
   padding: 50px;
   text-align: center;
-  position:absolute;
-  left: 0;
-  bottom: 0;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  position: fixed;
+  bottom: 0pt;
+  left: 0pt;
   width: 100%; 
   height: 50px; 
 } 

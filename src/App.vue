@@ -30,15 +30,15 @@ body {
   font-family: verdana;
   font-size: 20px;
   color: rgb(27, 216, 74);
+  padding-bottom: 50px;
 }
 
 #container {
-  position: relative;
   min-height: 100vh;
 }
 
 #content-wrap {
-  padding-bottom: 2.5rem;    /* Footer height */
+  padding-bottom: 2.5rem;    
 }
 
 </style>
